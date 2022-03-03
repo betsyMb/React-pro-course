@@ -5,10 +5,10 @@ const product1 = {
   title: "Coffe Mug - Card",
   img: "./coffee-mug.png",
 };
-const product2 = {
-  id: "2",
-  title: "Coffe Mug - Card",
-  img: "./coffee-mug2.png",
-};
+// const product2 = {
+//   id: "2",
+//   title: "Coffe Mug - Card",
+//   img: "./coffee-mug2.png",
+// };
 
-export const products: Product[] = [product1, product2];
+export const products: Product[] = [product1];
